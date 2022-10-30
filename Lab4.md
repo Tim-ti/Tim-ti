@@ -2,7 +2,7 @@
 
 #### Preconditions:
 
-- [Website](https://www.hugoboss.com/uk/wishlist)
+- [Website](https://www.hugoboss.com/uk/men/)
 
 ## Test case 1: region selection
 
